@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "jevakallio.vscode-hacker-typer"
+        "jevakallio.vscode-hacker-typer",
+        "MS-CEINTL.vscode-language-pack-pt-BR"
     ]
 }
